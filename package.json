@@ -1,0 +1,24 @@
+{
+  "name": "job-automators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "N/A",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login": "clasp login",
+    "pull": "clasp pull"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nasustim/JobAutomators.git"
+  },
+  "author": "nasustim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasustim/JobAutomators/issues"
+  },
+  "homepage": "https://github.com/nasustim/JobAutomators#readme",
+  "dependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}
